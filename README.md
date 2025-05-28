@@ -1,2 +1,2 @@
 # Todo-App-with-DOM
-html,css and js 
+This Todo App showcases fundamental DOM manipulation techniques for creating interactive web applications.
